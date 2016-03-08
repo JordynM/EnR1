@@ -22,8 +22,10 @@ void draw(){
  
   //eyes
   fill(175,100,220);
+  strokeWeight(2);
   ellipse(-19,-30,16,30);
   ellipse(19,-30,16,32);
+  strokeWeight(2);
   
 
   //legs
