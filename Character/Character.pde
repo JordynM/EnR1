@@ -19,7 +19,6 @@ void draw(){
   fill(100);
   ellipse(0,-30,60,60);
   
- 
   //eyes
   fill(175,100,220);
   strokeWeight(2);
@@ -27,13 +26,14 @@ void draw(){
   ellipse(19,-30,16,32);
   strokeWeight(2);
   
-
+ 
   //legs
   stroke(255);
   line(-10,50,-20,60);
   line(10,50,20,60);
   
-String s = "Bob";
+  
+  String s = "Bob";
 fill(60);
 text(s, 50, 50, 70, 80);  // Text wraps within text box
 
