@@ -38,7 +38,7 @@ class Drop {
   //  //move drop
   //  y = -1000;
   //}
-  void finished)){
+  void finished() {
     finished = true;
   }
 }
